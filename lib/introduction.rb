@@ -2,7 +2,17 @@ def introduction (Yasmine)
 puts "Hi, my name is #{Yasmine}."
 end
 
+# def introduction(Yasmine)
+#  puts "Hi, my name is #{Yasmine}."
+#end
 
+#def introduction_with_language(Yasmine, ruby)
+#  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+#end
+
+#def introduction_with_language_optional(name, language="Ruby")
+#  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+#end
 
 
 
