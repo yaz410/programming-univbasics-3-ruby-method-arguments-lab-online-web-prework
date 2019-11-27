@@ -1,5 +1,6 @@
 def introduction (Yasmine)
-puts "Hi, my name is #{Yasmine}"
+puts "Hi, my name is #{Yasmine}."
+
 
 
 
