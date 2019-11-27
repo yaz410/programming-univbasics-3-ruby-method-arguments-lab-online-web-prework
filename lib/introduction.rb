@@ -1,14 +1,5 @@
-
-
-
-
-
-
-
-
-
-# def introduction(Edwin)
-# puts "Hi my name is #{name}."
+# def introduction(Yasmine)
+# puts "Hi my name is #{Yasmine}."
 #end
 
 #def introduction_with_language(Yasmine, ruby)
