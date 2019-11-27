@@ -6,12 +6,12 @@ end
 #  puts "Hi, my name is #{Yasmine}."
 #end
 
-#def introduction_with_language(Yasmine, ruby)
-#  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+#def introduction_with_language(Yasmine, Ruby)
+#  puts "Hi, my name is #{Yasmine} and I am learning to program in #{ruby}."
 #end
 
 #def introduction_with_language_optional(name, language="Ruby")
-#  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+#  puts "Hi, my name is #{Yasmine} and I am learning to program in #{ruby}."
 #end
 
 
